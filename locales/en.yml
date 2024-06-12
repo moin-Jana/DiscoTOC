@@ -2,6 +2,7 @@ en:
   table_of_contents: table of contents
   insert_table_of_contents: Insert table of contents
   jump_bottom: Jump to end
+  composer_toc_text: This topic will contain a table of contents
   toggle_toc:
     show_timeline: Timeline
     show_toc: Contents
